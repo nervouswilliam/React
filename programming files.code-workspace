@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../my-app"
+		}
+	],
+	"settings": {
+		"C_Cpp.errorSquiggles": "Enabled",
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"files.associations": {
+			"typeinfo": "cpp"
+		}
+	}
+}
